@@ -1,6 +1,6 @@
 # Simple-Py-blockchain-OOP
 
-Blockchain in one .py within 250 lines
+Blockchain in one .py within 300 lines
 
 ## Description
 
