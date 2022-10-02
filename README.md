@@ -15,7 +15,7 @@ Bare minimal server code demo on browser, for education purpose only.
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the Apache License
 
 ## Acknowledgments
 
